@@ -1,7 +1,16 @@
-## Oiii eu sou a Rafaella Ballerini, criadora de conteúdo de programação e tecnologia!
+## Olaa eu sou o Paulo Victor, sou programador full stack Web!
 
-Pessoal que veio atrás do **Github Stats:** a API provavelmente saiu do ar nesse período,
-mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance)
+
+<div>
+  
+  [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=PauloVictoSantos&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+  [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=PauloVictoSantos&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+</div><br>
+
+<div>
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PauloVictoSantos&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Paulo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
